@@ -16,10 +16,10 @@ A lightweight Python app that lets users ask questions about any PDF using the p
 
 
 ask-my-pdf/
-├── app.py              # Main application logic
-├── requirements.txt    # Python dependencies
-├── .gitignore          # Files ignored by Git
-└── .env                # API keys (not pushed to GitHub)
+- app.py              # Main application logic
+-  requirements.txt    # Python dependencies
+- .gitignore          # Files ignored by Git
+- .env                # API keys (not pushed to GitHub)
 
 
 
